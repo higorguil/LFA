@@ -1,0 +1,4 @@
+LFA
+===
+
+Minimizar AFD
